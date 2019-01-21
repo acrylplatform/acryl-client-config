@@ -1,13 +1,7 @@
 {
   "PERMISSIONS": {
     "CAN_TRANSFER_COINOMAT": [
-      "BTC",
-      "ETH",
-      "LTC",
-      "ZEC",
-      "BCH",
-      "DASH",
-      "XMR"
+      "BTC"
     ],
     "CAN_TRANSFER_TRANSACTION": true,
     "CAN_MASS_TRANSFER_TRANSACTION": true,
@@ -29,18 +23,7 @@
     "DEX": {
       "WATCH_LIST_PAIRS": [
         "WAVES",
-        "AsuWyM9MUUsMmWkK7jS48L3ky6gA1pxx7QtEYPbfLjAJ",
-        "D6N2rAqWN6ZCWnCeNFWLGqqjS6nJLeK4m19XiuhdDenr",
-        "DWgwcZTMhSvnyYCoWLRUXXSH1RSkzThXLJhww9gwkqdn",
-        "BrmjyAWT5jjr3Wpsiyivyvg5vDuzoX2s93WgiexXetB3",
-        "BNdAstuFogzSyN2rY3beJbnBYwYcu7RzTHFjW88g8roK",
-        "CFg2KQfkUgUVM2jFCMC5Xh8T8zrebvPc4HjHPfAugU1S",
-        "8HT8tXwrXAYqwm8XrZ2hywWWTUAXxobHB5DakVC1y6jn",
-        "7itsmgdmomeTXvZzaaxqF3346h4FhciRoWceEw9asNV3",
-        "DGgBtwVoXKAKKvV2ayUpSoPzTJxt7jo9KiXMJRzTH2ET",
-        "FvKx3cerSVYGfXKFvUgp7koNuTAcLs8DmtmwRrFVCqJv",
-        "3P8gkhcLhFQvBkDzMnWeqqwvq3qxkpTNQPs4LUQ95tKD",
-        "8oPbSCKFHkXBy1hCGSg9pJkSARE7zhTQTLpc8KZwdtr7"
+        "DWgwcZTMhSvnyYCoWLRUXXSH1RSkzThXLJhww9gwkqdn"
       ]
     }
   }
