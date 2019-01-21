@@ -2,8 +2,8 @@
   "version": 1,
   
   "whitelist": [
-    "client.wavesplatform.com",
-    "testnet.wavesplatform.com"
+    "client.acrylplatform.com",
+    "testnet.acrylplatform.com"
   ],
   "blacklist": [
     "binance-promo.net"
