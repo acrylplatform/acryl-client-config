@@ -25,6 +25,15 @@
             "wavesId" : "ABTC",
             "gatewayId": "BTC",
             "addressRegEx" : "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
+        },
+        {
+            "assetId": "4vN61TPpk5qKidGt5RYgd1To4nzxsoDyAL5buBk37hwF",
+            "displayName": "USD",
+            "isFiat": true,
+            "isGateway" : false,
+            "wavesId" : "AUSD",
+            "gatewayId": "USD",
+            "addressRegEx" : ""
         }
     ]
 }
