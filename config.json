@@ -27,6 +27,11 @@
         "4vN61TPpk5qKidGt5RYgd1To4nzxsoDyAL5buBk37hwF",
         "231SacpmxDd8itikHufHjd8kM76MmmVMDN5TMynQyK33"
       ]
+    },
+    "REFERERS": {
+      "BLACK_LIST": [
+        "acrylnode.com"
+      ]
     }
   }
 }
