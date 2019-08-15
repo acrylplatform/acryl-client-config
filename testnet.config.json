@@ -25,6 +25,11 @@
         "WAVES",
         "DxTmLjoVh5Eos7VrX8JxzAFhDXLzo8pp7ugSxbWJATfy"
       ]
+    },
+    "REFERERS": {
+      "BLACK_LIST": [
+        "acrylnode.com"
+      ]
     }
   }
 }
