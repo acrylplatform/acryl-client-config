@@ -1,7 +1,8 @@
 {
   "PERMISSIONS": {
     "CAN_TRANSFER_COINOMAT": [
-      "BTC"
+      "BTC",
+      "USDT"
     ],
     "CAN_TRANSFER_TRANSACTION": true,
     "CAN_MASS_TRANSFER_TRANSACTION": true,
