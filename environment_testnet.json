@@ -27,6 +27,15 @@
             "addressRegEx" : "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
         },
         {
+            "assetId": "6WyiSedm8P3XZnmrjyxEY8s4kTHMZyANb7pPS4Y4v8iZ",
+            "displayName": "USDT",
+            "isFiat": false,
+            "isGateway" : true,
+            "wavesId" : "AUSDT",
+            "gatewayId": "USDT",
+            "addressRegEx" : ""
+        },
+        {
             "assetId": "C9yUPJmYNWBUDb6NFq75gxz6JfUf6F7ZCx3392EvLQQg",
             "displayName": "USD",
             "isFiat": true,
